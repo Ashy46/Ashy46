@@ -1,4 +1,5 @@
-## Hi there 👋
+# Ashwin Balaraman 
+Hi, I am Ashwin Balaraman and I am an incoming freshman at UChicago. I plan to major in CS and Economics. In my free time, I enjoy playing and coaching tennis and I read books - mainly fiction, historical ficiton, and self-help. 
 
 <!--
 **Ashy46/Ashy46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
